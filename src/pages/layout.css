@@ -1,0 +1,13 @@
+.navbarList {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+    font-size: 24px;
+    list-style-type: ;
+
+}
+
+.navbarListItem {
+    outline-style: none;
+}
